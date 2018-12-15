@@ -1,2 +1,2 @@
 # blog_ecrivain
-Création d'un blog pour un écrivain.
+Création d'un blog pour un écrivain, version modifiée.
